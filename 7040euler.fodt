@@ -1,0 +1,1284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:officeooo="http://openoffice.org/2009/office" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><meta:generator>LibreOffice/7.4.6.2$Windows_X86_64 LibreOffice_project/5b1f5509c2decdade7fda905e3e1429a67acd63d</meta:generator><meta:initial-creator>COMPUTING</meta:initial-creator><meta:creation-date>1995-02-23T08:17:00</meta:creation-date><dc:creator>Aik-Siong Koh</dc:creator><dc:date>2008-03-24T23:08:00</dc:date><dc:language>en-US</dc:language><meta:editing-cycles>39</meta:editing-cycles><meta:editing-duration>PT15H50M58S</meta:editing-duration><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="12" meta:page-count="1" meta:paragraph-count="16" meta:word-count="51" meta:character-count="312"/><meta:user-defined meta:name="Info 1"/><meta:user-defined meta:name="Info 2"/><meta:user-defined meta:name="Info 3"/><meta:user-defined meta:name="Info 4"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">501</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">501</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">20877</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">11379</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">true</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">607</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">1083</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">501</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">501</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">21377</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">11878</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">200</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="HideWhitespace" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">true</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="ForbiddenCharacters">
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">ja</config:config-item>
+     <config:config-item config:name="Country" config:type="string">JP</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string">!%),.:;?]}¢°’”‰′″℃、。々〉》」』】〕゛゜ゝゞ・ヽヾ！％），．：；？］｝｡｣､･ﾞﾟ￠</config:config-item>
+     <config:config-item config:name="EndLine" config:type="string">$([\{£¥‘“〈《「『【〔＄（［｛｢￡￥</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+   <config:config-item config:name="PrinterName" config:type="string">HP Officejet Pro 8600 (Network)</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">KQv+/0hQIE9mZmljZWpldCBQcm8gODYwMCAoTmV0d29yaykAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASFAgT2ZmaWNlamV0IFBybyA4NjAwAAAAAAAAAAAAAAAWAAEASgoAAAAAAAAIAFZUAAAkbQAAM1ROVwAAAAAKAEgAUAAgAE8AZgBmAGkAYwBlAGoAZQB0ACAAUAByAG8AIAA4ADYAMAAwACAAKABOAGUAdAB3AG8AcgBrAAAAAAABBAMG3ABkCUP/gQcBAAEA6gpvCGQAAQAPAFgCAgABAFgCAgABAEwAZQB0AHQAZQByAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAgAAAAIAAAAVAQAAAQEAAAAAAAAAAAAAAAAAAAAAAABESU5VIgC4AhQFUAS7D207AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAuAIAAFNNVEoAAAAAEACoAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUAQAAExQUEgBAAAAUQjbYFEI22AHAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAABYAgAAWAIAAFgCAABYAgAAAgAAAOwTAADIGQAAoRMAAH0ZAABLAAAASwAAADwAAAA8AAAAPAAAADwAAAAAAAAAAQAAAA8nAAABAAAAAQAAAAEAAAAPJwAAAAAAAA8nAAAPJwAAAAAAAA8nAAAPJwAADycAAA8nAAAPJwAADycAAA8nAAAPJwAADycAAA8nAAAPJwAADycAAA8nAAAPJwAADycAAA8nAAAPJwAADycAAA8nAAAPJwAADycAAA8nAAAPJwAADycAAA8nAAAPJwAADycAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVHVlIEFwciAxOCAxMToxNjo0NTo3NzQgMjAyMwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAd7oPYEsAAABLAAAAAQAAAAAAAAAEAAAAAAEAAHe6D2AAAAAAEgBDT01QQVRfRFVQTEVYX01PREUPAER1cGxleE1vZGU6Ok9mZg==</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">disabled</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1453509</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1453509</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FootnoteInColumnToPageEnd" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ImagePreferredDPI" config:type="int">0</config:config-item>
+   <config:config-item config:name="AutoFirstLineIndentDisregardLineSpace" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="WordLikeWrapForAsCharFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="NoNumberingShowFollowBy" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Albany" svg:font-family="Albany" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Arial Unicode MS" svg:font-family="&apos;Arial Unicode MS&apos;" style:font-pitch="variable"/>
+  <style:font-face style:name="HG Mincho Light J" svg:font-family="&apos;HG Mincho Light J&apos;" style:font-pitch="variable"/>
+  <style:font-face style:name="Thorndale" svg:font-family="Thorndale" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#000000" draw:fill-color="#99ccff" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="true"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" loext:color-lum-mod="100%" loext:color-lum-off="0%" style:font-name="Thorndale" fo:font-size="12pt" fo:language="en" fo:country="US" style:font-name-asian="HG Mincho Light J" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Arial Unicode MS" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.5in" style:writing-mode="page"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Thorndale" fo:font-size="12pt" fo:language="en" fo:country="US" style:font-name-asian="HG Mincho Light J" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Arial Unicode MS" style:font-size-complex="12pt" style:language-complex="zxx" style:country-complex="none" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false" loext:hyphenation-word-char-count="no-limit" loext:hyphenation-zone="no-limit"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="separating"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="always"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text">
+   <style:paragraph-properties fo:orphans="2" fo:widows="2"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="12pt" fo:language="en" fo:country="US" style:font-name-asian="Times New Roman" style:font-family-asian="&apos;Times New Roman&apos;" style:font-family-generic-asian="roman" style:font-pitch-asian="variable" style:font-size-asian="12pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0835in" style:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Albany" fo:font-family="Albany" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="HG Mincho Light J" style:font-family-asian="&apos;HG Mincho Light J&apos;" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Arial Unicode MS" style:font-family-complex="&apos;Arial Unicode MS&apos;" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:default-outline-level="1" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0417in" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties fo:font-weight="bold" style:letter-kerning="true" style:font-weight-asian="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:default-outline-level="2" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0417in" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:default-outline-level="3" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0417in" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_4" style:display-name="Heading 4" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:default-outline-level="4" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0417in" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold"/>
+  </style:style>
+  <style:style style:name="equation" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="6.25in" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="figure" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0417in" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" fo:keep-with-next="always"/>
+  </style:style>
+  <style:style style:name="Footnote_20_Symbol" style:display-name="Footnote Symbol" style:family="text"/>
+  <style:style style:name="Endnote_20_Symbol" style:display-name="Endnote Symbol" style:family="text"/>
+  <style:style style:name="WW-Default_20_Paragraph_20_Font" style:display-name="WW-Default Paragraph Font" style:family="text"/>
+  <style:style style:name="Footnote_20_anchor" style:display-name="Footnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Endnote_20_anchor" style:display-name="Endnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Frame" style:family="graphic">
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0in" svg:y="0in" style:wrap="parallel" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph-content" style:horizontal-pos="center" style:horizontal-rel="paragraph-content"/>
+  </style:style>
+  <style:style style:name="Graphics" style:family="graphic">
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0in" svg:y="0in" style:wrap="none" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
+  </style:style>
+  <style:style style:name="OLE" style:family="graphic">
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0in" svg:y="0in" style:wrap="none" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
+  </style:style>
+  <style:style style:name="Formula" style:family="graphic">
+   <style:graphic-properties text:anchor-type="as-char" svg:y="0in" fo:margin-left="0.0791in" fo:margin-right="0.0791in" style:vertical-pos="middle" style:vertical-rel="text"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" loext:num-list-format="%1%" style:num-format="">
+    <style:list-level-properties/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" loext:num-list-format="%2%" style:num-format="">
+    <style:list-level-properties/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" loext:num-list-format="%3%" style:num-format="">
+    <style:list-level-properties/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" loext:num-list-format="%4%" style:num-format="">
+    <style:list-level-properties/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" loext:num-list-format="%5%" style:num-format="">
+    <style:list-level-properties/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" loext:num-list-format="%6%" style:num-format="">
+    <style:list-level-properties/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" loext:num-list-format="%7%" style:num-format="">
+    <style:list-level-properties/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" loext:num-list-format="%8%" style:num-format="">
+    <style:list-level-properties/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" loext:num-list-format="%9%" style:num-format="">
+    <style:list-level-properties/>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" loext:num-list-format="%10%" style:num-format="">
+    <style:list-level-properties/>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:notes-configuration text:note-class="footnote" text:citation-style-name="Footnote_20_Symbol" text:citation-body-style-name="Footnote_20_anchor" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="page"/>
+  <text:notes-configuration text:note-class="endnote" text:citation-style-name="Endnote_20_Symbol" text:citation-body-style-name="Endnote_20_anchor" text:master-page-name="Endnote" style:num-format="1" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.1965in" style:num-format="1" text:number-position="left" text:increment="5"/>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Formula">
+   <style:graphic-properties style:vertical-pos="middle" style:vertical-rel="text" style:horizontal-pos="center" style:horizontal-rel="paragraph" draw:ole-draw-aspect="1"/>
+  </style:style>
+  <style:style style:name="fr2" style:family="graphic" style:parent-style-name="Formula">
+   <style:graphic-properties style:vertical-pos="middle" style:vertical-rel="text" style:horizontal-pos="from-left" style:horizontal-rel="paragraph-content" draw:ole-draw-aspect="1"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="8.3in" fo:page-height="11.7in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="1in" fo:margin-bottom="1in" fo:margin-left="1in" fo:margin-right="1in" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="38" style:layout-grid-base-height="0.1945in" style:layout-grid-ruby-height="0.0555in" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0in" loext:margin-gutter="0in">
+    <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+  <style:page-layout style:name="pm2">
+   <style:page-layout-properties fo:page-width="8.3in" fo:page-height="11.7in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.278in" style:layout-grid-ruby-height="0.139in" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0in" loext:margin-gutter="0in">
+    <style:footnote-sep style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+  <style:style style:name="dp1" style:family="drawing-page">
+   <style:drawing-page-properties draw:background-size="full"/>
+  </style:style>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1"/>
+  <style:master-page style:name="Endnote" style:page-layout-name="pm2" draw:style-name="dp1"/>
+ </office:master-styles>
+ <office:body>
+  <office:text>
+   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">AutoCAD rotation and normal convention.</text:h>
+   <text:p text:style-name="Standard">It is similar to Euler Angles zxz.</text:p>
+   <text:p text:style-name="Standard">Sequence of AutoCAD command for a block reference.</text:p>
+   <text:p text:style-name="Standard">Normal (0 0 1) to start convention. Otherwise, I cannot predict the actions of subsequent commands.</text:p>
+   <text:p text:style-name="Standard">Rotation is<draw:frame draw:style-name="fr1" draw:name="Object47" text:anchor-type="as-char" svg:width="0.2654in" svg:height="0.228in" draw:z-index="5"><draw:object>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+       <semantics>
+        <msub>
+         <mi>θ</mi>
+         <mrow>
+          <mn>3</mn>
+          <mi>z</mi>
+         </mrow>
+        </msub>
+        <annotation encoding="StarMath 5.0">%theta_3z</annotation>
+       </semantics>
+      </math>
+     </draw:object><draw:image>
+      <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAaECAABD
+       AgAAFQAAAIsAAQACAAAA//+BAAEAEAAAAAAAAAAAAAAAoAIAAEICAACVAAEABAAAAAAAAACW
+       AAEAAgAAAAkAiwABAAIAAAAfAIoAAQBAAAAABAA6AAAACgBTdGFyU3ltYm9sAAAAAAAApwEA
+       AP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAAAAAAIgAAQACAAAAAQCHAAEABQAA
+       AP////8AhgABAAQAAAAAAAAAcgACABoAAABqAAAApwEAAAEAAAC+4OUAAAAAAAEAAQC+4IwA
+       AQAAAAAAiwABAAIAAAAfAIoAAQA/AAAABAA5AAAACQBUaG9ybmRhbGUAAAAAAAD9AAAAAAAA
+       AAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAAAAAAAAiAABAAIAAAABAIcAAQAFAAAA////
+       /wCGAAEABAAAAAAAAAByAAIAGgAAAFgBAAARAgAAAgAzeu0AAAAAAAIAAgAzAHoAjAABAAAA
+       AACVAAEABAAAAAAAAACWAAEAAgAAAAAAjAABAAAAAAA=
+      </office:binary-data>
+     </draw:image>
+    </draw:frame></text:p>
+   <text:p text:style-name="Standard">Normal<draw:frame draw:style-name="fr1" draw:name="Object50" text:anchor-type="as-char" svg:width="0.7965in" svg:height="0.239in" draw:z-index="8"><draw:object>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+       <semantics>
+        <mrow>
+         <mo fence="true" form="prefix" stretchy="true">(</mo>
+         <mrow>
+          <mrow>
+           <msub>
+            <mi>n</mi>
+            <mi>x</mi>
+           </msub>
+           <mi>,</mi>
+           <msub>
+            <mi>n</mi>
+            <mi>y</mi>
+           </msub>
+           <mi>,</mi>
+           <msub>
+            <mi>n</mi>
+            <mi>z</mi>
+           </msub>
+          </mrow>
+         </mrow>
+         <mo fence="true" form="postfix" stretchy="true">)</mo>
+        </mrow>
+        <annotation encoding="StarMath 5.0">left(
+n_x ,
+n_y ,
+n_z 
+right)</annotation>
+       </semantics>
+      </math>
+     </draw:object><draw:image>
+      <office:binary-data>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
+       AAAAAAAAAJYAAQACAAAAAACMAAEAAAAAAA==
+      </office:binary-data>
+     </draw:image>
+    </draw:frame>. This is equivalent to<draw:frame draw:style-name="fr1" draw:name="Object48" text:anchor-type="as-char" svg:width="0.6543in" svg:height="0.2508in" draw:z-index="6"><draw:object>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+       <semantics>
+        <mrow>
+         <mo fence="true" form="prefix" stretchy="true">(</mo>
+         <mrow>
+          <mrow>
+           <msub>
+            <mi>θ</mi>
+            <mrow>
+             <mn>1</mn>
+             <mi>z</mi>
+            </mrow>
+           </msub>
+           <mi>,</mi>
+           <msub>
+            <mi>θ</mi>
+            <mrow>
+             <mn>2</mn>
+             <mi>x</mi>
+            </mrow>
+           </msub>
+          </mrow>
+         </mrow>
+         <mo fence="true" form="postfix" stretchy="true">)</mo>
+        </mrow>
+        <annotation encoding="StarMath 5.0">left(
+%theta_1z ,
+%theta_2x
+right)</annotation>
+       </semantics>
+      </math>
+     </draw:object><draw:image>
+      <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAX4GAAB8
+       AgAAOAAAAIsAAQACAAAA//+BAAEAEAAAAAAAAAAAAAAAfQYAAHsCAACVAAEABAAAAAAAAACW
+       AAEAAgAAAAkAiwABAAIAAAAfAIoAAQA6AAAAAgA0AAAACgBTdGFyU3ltYm9sAAADAQAAXQIA
+       AP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAIgAAQACAAAAAQCHAAEABQAAAP////8A
+       hgABAAQAAAAAAAAAcgACABoAAABqAAAA9wEAAAEAAACe4G4AAAAAAP//AQCe4IwAAQAAAAAA
+       iwABAAIAAAAfAIoAAQA6AAAAAgA0AAAACgBTdGFyU3ltYm9sAAAAAAAApwEAAP//AAAAAAUA
+       AAAAAAAA/wMAAAAAAAAAAAD/AwAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAA
+       AAAAcgACABoAAADuAAAAwgEAAAEAAAC+4OUAAAAAAP//AQC+4IwAAQAAAAAAiwABAAIAAAAf
+       AIoAAQA5AAAAAgAzAAAACQBUaG9ybmRhbGUAAAAAAAD9AAAAAAAAAAAABQAAAAAAAAD/AwAA
+       AAAAAAAAAP8DAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAGgAA
+       ANwBAAAsAgAAAgAxeu0AAAAAAP//AgAxAHoAjAABAAAAAACLAAEAAgAAAB8AigABADkAAAAC
+       ADMAAAAJAFRob3JuZGFsZQAAAAAAAKcBAAAAAAAAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMA
+       AACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAAGgMAAMIBAAAB
+       ACxuAAAAAAD//wEALACMAAEAAAAAAIsAAQACAAAAHwCKAAEAOgAAAAIANAAAAAoAU3RhclN5
+       bWJvbAAAAAAAAKcBAAD//wAAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAACIAAEAAgAAAAEA
+       hwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAAngMAAMIBAAABAAAAvuDlAAAAAAD/
+       /wEAvuCMAAEAAAAAAIsAAQACAAAAHwCKAAEAOQAAAAIAMwAAAAkAVGhvcm5kYWxlAAAAAAAA
+       /QAAAAAAAAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAIgAAQACAAAAAQCHAAEABQAAAP//
+       //8AhgABAAQAAAAAAAAAcgACABoAAACMBAAALAIAAAIAMnj2AAAAAAD//wIAMgB4AIwAAQAA
+       AAAAiwABAAIAAAAfAIoAAQA6AAAAAgA0AAAACgBTdGFyU3ltYm9sAAADAQAAXQIAAP//AAAA
+       AAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQA
+       AAAAAAAAcgACABoAAACvBQAA9wEAAAEAAACf4G4AAAAAAP//AQCf4IwAAQAAAAAAlQABAAQA
+       AAAAAAAAlgABAAIAAAAAAIwAAQAAAAAA
+      </office:binary-data>
+     </draw:image>
+    </draw:frame>.</text:p>
+   <text:p text:style-name="Standard"><draw:frame draw:style-name="fr1" draw:name="Object49" text:anchor-type="as-char" svg:width="2.0417in" svg:height="0.4583in" draw:z-index="7"><draw:object>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+       <semantics>
+        <mrow>
+         <mrow>
+          <msub>
+           <mi>θ</mi>
+           <mrow>
+            <mn>1</mn>
+            <mi>z</mi>
+           </mrow>
+          </msub>
+          <mo stretchy="false">=</mo>
+          <msup>
+           <mi>tan</mi>
+           <mrow>
+            <mo stretchy="false">−</mo>
+            <mn>1</mn>
+           </mrow>
+          </msup>
+         </mrow>
+         <mrow>
+          <mrow>
+           <mfrac>
+            <msub>
+             <mi>n</mi>
+             <mi>y</mi>
+            </msub>
+            <msub>
+             <mi>n</mi>
+             <mi>x</mi>
+            </msub>
+           </mfrac>
+           <mo stretchy="false">+</mo>
+           <mfrac>
+            <mi>π</mi>
+            <mn>2</mn>
+           </mfrac>
+          </mrow>
+          <mo stretchy="false">=</mo>
+          <msup>
+           <mi>tan</mi>
+           <mrow>
+            <mo stretchy="false">−</mo>
+            <mn>1</mn>
+           </mrow>
+          </msup>
+         </mrow>
+         <mfrac>
+          <msub>
+           <mi>n</mi>
+           <mi>y</mi>
+          </msub>
+          <mrow>
+           <mo stretchy="false">−</mo>
+           <msub>
+            <mi>n</mi>
+            <mi>x</mi>
+           </msub>
+          </mrow>
+         </mfrac>
+        </mrow>
+        <annotation encoding="StarMath 5.0">%theta_1z
+=
+tan^-1
+n_y over n_x
++
+%pi over 2
+=
+tan^-1
+n_y over -n_x</annotation>
+       </semantics>
+      </math>
+     </draw:object><draw:image>
+      <office:binary-data>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
+      </office:binary-data>
+     </draw:image>
+    </draw:frame></text:p>
+   <text:p text:style-name="Standard"><draw:frame draw:style-name="fr1" draw:name="Object51" text:anchor-type="as-char" svg:width="1.6437in" svg:height="0.5in" draw:z-index="9"><draw:object>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+       <semantics>
+        <mrow>
+         <mrow>
+          <msub>
+           <mi>θ</mi>
+           <mrow>
+            <mn>2</mn>
+            <mi>x</mi>
+           </mrow>
+          </msub>
+          <mo stretchy="false">=</mo>
+          <msup>
+           <mi>cos</mi>
+           <mrow>
+            <mo stretchy="false">−</mo>
+            <mn>1</mn>
+           </mrow>
+          </msup>
+         </mrow>
+         <mfrac>
+          <msub>
+           <mi>n</mi>
+           <mi>z</mi>
+          </msub>
+          <msqrt>
+           <mrow>
+            <msubsup>
+             <mi>n</mi>
+             <mi>x</mi>
+             <mn>2</mn>
+            </msubsup>
+            <mo stretchy="false">+</mo>
+            <msubsup>
+             <mi>n</mi>
+             <mi>y</mi>
+             <mn>2</mn>
+            </msubsup>
+            <mo stretchy="false">+</mo>
+            <msubsup>
+             <mi>n</mi>
+             <mi>z</mi>
+             <mn>2</mn>
+            </msubsup>
+           </mrow>
+          </msqrt>
+         </mfrac>
+        </mrow>
+        <annotation encoding="StarMath 5.0">%theta_2x
+=
+cos^-1
+n_z over sqrt {n^2_x + n^2_y + n^2_z}
+</annotation>
+       </semantics>
+      </math>
+     </draw:object><draw:image>
+      <office:binary-data>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
+      </office:binary-data>
+     </draw:image>
+    </draw:frame></text:p>
+   <text:p text:style-name="Standard">In terms of<draw:frame draw:style-name="fr1" draw:name="Object52" text:anchor-type="as-char" svg:width="0.3055in" svg:height="0.2134in" draw:z-index="10"><draw:object>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+       <semantics>
+        <mrow>
+         <mo fence="true" form="prefix" stretchy="true">[</mo>
+         <mrow>
+          <mstyle mathvariant="bold">
+           <mi mathvariant="normal">A</mi>
+          </mstyle>
+         </mrow>
+         <mo fence="true" form="postfix" stretchy="true">]</mo>
+        </mrow>
+        <annotation encoding="StarMath 5.0">left[
+{bold nitalic A}
+right]</annotation>
+       </semantics>
+      </math>
+     </draw:object><draw:image>
+      <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAQgDAAAd
+       AgAAHAAAAIsAAQACAAAA//+BAAEAEAAAAAAAAAAAAAAABwMAABwCAACVAAEABAAAAAAAAACW
+       AAEAAgAAAAkAiwABAAIAAAAfAIoAAQA6AAAAAgA0AAAACgBTdGFyU3ltYm9sAADcAAAA+QEA
+       AP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAIgAAQACAAAAAQCHAAEABQAAAP////8A
+       hgABAAQAAAAAAAAAcgACABoAAABqAAAApwEAAAEAAABbAFUAAAAAAP//AQBbAIwAAQAAAAAA
+       iwABAAIAAAAfAIoAAQA5AAAAAgAzAAAACQBUaG9ybmRhbGUAAAAAAACnAQAAAAAAAAAACAAA
+       AAAAAAD/AwAAAAAAAAAAAP8DAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAA
+       AAByAAIAFwAAAO4AAACnAQAAAQBBMQEAAAAA//8BAEEAjAABAAAAAACLAAEAAgAAAB8AigAB
+       ADoAAAACADQAAAAKAFN0YXJTeW1ib2wAANwAAAD5AQAA//8AAAAABQAAAAAAAAD/AwAAAAAA
+       AAAAAP8DAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAAEYC
+       AACnAQAAAQAAAF0AVQAAAAAA//8BAF0AjAABAAAAAACVAAEABAAAAAAAAACWAAEAAgAAAAAA
+       jAABAAAAAAA=
+      </office:binary-data>
+     </draw:image>
+    </draw:frame></text:p>
+   <text:p text:style-name="Standard"><draw:frame draw:style-name="fr2" draw:name="Object18" text:anchor-type="as-char" svg:width="0.9098in" svg:height="0.7638in" draw:z-index="11"><draw:object>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+       <semantics>
+        <mrow>
+         <mrow>
+          <mo fence="true" form="prefix" stretchy="true">{</mo>
+          <mrow>
+           <mtable>
+            <mtr>
+             <mtd>
+              <msub>
+               <mi>n</mi>
+               <mi>x</mi>
+              </msub>
+             </mtd>
+            </mtr>
+            <mtr>
+             <mtd>
+              <msub>
+               <mi>n</mi>
+               <mi>y</mi>
+              </msub>
+             </mtd>
+            </mtr>
+            <mtr>
+             <mtd>
+              <msub>
+               <mi>n</mi>
+               <mi>z</mi>
+              </msub>
+             </mtd>
+            </mtr>
+           </mtable>
+          </mrow>
+          <mo fence="true" form="postfix" stretchy="true">}</mo>
+         </mrow>
+         <mo stretchy="false">=</mo>
+         <mrow>
+          <mo fence="true" form="prefix" stretchy="true">{</mo>
+          <mrow>
+           <mtable>
+            <mtr>
+             <mtd>
+              <msub>
+               <mi>A</mi>
+               <mn>13</mn>
+              </msub>
+             </mtd>
+            </mtr>
+            <mtr>
+             <mtd>
+              <msub>
+               <mi>A</mi>
+               <mn>23</mn>
+              </msub>
+             </mtd>
+            </mtr>
+            <mtr>
+             <mtd>
+              <msub>
+               <mi>A</mi>
+               <mn>33</mn>
+              </msub>
+             </mtd>
+            </mtr>
+           </mtable>
+          </mrow>
+          <mo fence="true" form="postfix" stretchy="true">}</mo>
+         </mrow>
+        </mrow>
+        <annotation encoding="StarMath 5.0">left lbrace 
+matrix
+{ 
+{n_x} ## 
+{n_y} ## 
+{n_z}
+} 
+right rbrace 
+=
+left lbrace 
+matrix
+{ 
+{A_13} ## 
+{A_23} ## 
+{A_33}
+} 
+right rbrace </annotation>
+       </semantics>
+      </math>
+     </draw:object><draw:image>
+      <office:binary-data>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
+       AAQAAAAAAAAAlgABAAIAAAAAAIwAAQAAAAAA
+      </office:binary-data>
+     </draw:image>
+    </draw:frame></text:p>
+   <text:p text:style-name="Standard">If<draw:frame draw:style-name="fr1" draw:name="Object7" text:anchor-type="as-char" svg:width="1.1028in" svg:height="0.228in" draw:z-index="0"><draw:object>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+       <semantics>
+        <mrow>
+         <mrow>
+          <msub>
+           <mi>A</mi>
+           <mn>33</mn>
+          </msub>
+          <mo stretchy="false">=</mo>
+          <mi>cos</mi>
+         </mrow>
+         <mrow>
+          <msub>
+           <mi>θ</mi>
+           <mrow>
+            <mn>2</mn>
+            <mi>x</mi>
+           </mrow>
+          </msub>
+          <mo stretchy="false">=</mo>
+          <mn>1</mn>
+         </mrow>
+        </mrow>
+        <annotation encoding="StarMath 5.0">A_33=cos %theta_2x=1</annotation>
+       </semantics>
+      </math>
+     </draw:object><draw:image>
+      <office:binary-data>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
+       AAAAAACMAAEAAAAAAA==
+      </office:binary-data>
+     </draw:image>
+    </draw:frame>, then</text:p>
+   <text:p text:style-name="equation"><draw:frame draw:style-name="fr1" draw:name="Object11" text:anchor-type="as-char" svg:width="1.0201in" svg:height="0.452in" draw:z-index="1"><draw:object>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+       <semantics>
+        <mrow>
+         <mrow>
+          <msub>
+           <mi>θ</mi>
+           <mrow>
+            <mn>3</mn>
+            <mi>z</mi>
+           </mrow>
+          </msub>
+          <mo stretchy="false">=</mo>
+          <msup>
+           <mi>tan</mi>
+           <mrow>
+            <mo stretchy="false">−</mo>
+            <mn>1</mn>
+           </mrow>
+          </msup>
+         </mrow>
+         <mfrac>
+          <msub>
+           <mi>A</mi>
+           <mn>21</mn>
+          </msub>
+          <msub>
+           <mi>A</mi>
+           <mn>11</mn>
+          </msub>
+         </mfrac>
+        </mrow>
+        <annotation encoding="StarMath 5.0">%theta_3z
+=
+tan^-1
+A_21 over A_11</annotation>
+       </semantics>
+      </math>
+     </draw:object><draw:image>
+      <office:binary-data>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
+      </office:binary-data>
+     </draw:image>
+    </draw:frame></text:p>
+   <text:p text:style-name="Standard">If<draw:frame draw:style-name="fr1" draw:name="Object12" text:anchor-type="as-char" svg:width="1.2252in" svg:height="0.228in" draw:z-index="2"><draw:object>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+       <semantics>
+        <mrow>
+         <mrow>
+          <msub>
+           <mi>A</mi>
+           <mn>33</mn>
+          </msub>
+          <mo stretchy="false">=</mo>
+          <mi>cos</mi>
+         </mrow>
+         <mrow>
+          <msub>
+           <mi>θ</mi>
+           <mrow>
+            <mn>2</mn>
+            <mi>x</mi>
+           </mrow>
+          </msub>
+          <mo stretchy="false">=</mo>
+          <mrow>
+           <mo stretchy="false">−</mo>
+           <mn>1</mn>
+          </mrow>
+         </mrow>
+        </mrow>
+        <annotation encoding="StarMath 5.0">A_33=cos %theta_2x=-1</annotation>
+       </semantics>
+      </math>
+     </draw:object><draw:image>
+      <office:binary-data>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
+       AAAAAA==
+      </office:binary-data>
+     </draw:image>
+    </draw:frame>, then</text:p>
+   <text:p text:style-name="equation"><draw:frame draw:style-name="fr1" draw:name="Object16" text:anchor-type="as-char" svg:width="1.1425in" svg:height="0.452in" draw:z-index="3"><draw:object>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+       <semantics>
+        <mrow>
+         <mrow>
+          <msub>
+           <mi>θ</mi>
+           <mrow>
+            <mn>3</mn>
+            <mi>z</mi>
+           </mrow>
+          </msub>
+          <mo stretchy="false">=</mo>
+          <mrow>
+           <mo stretchy="false">−</mo>
+           <msup>
+            <mi>tan</mi>
+            <mrow>
+             <mo stretchy="false">−</mo>
+             <mn>1</mn>
+            </mrow>
+           </msup>
+          </mrow>
+         </mrow>
+         <mfrac>
+          <msub>
+           <mi>A</mi>
+           <mn>21</mn>
+          </msub>
+          <msub>
+           <mi>A</mi>
+           <mn>11</mn>
+          </msub>
+         </mfrac>
+        </mrow>
+        <annotation encoding="StarMath 5.0">%theta_3z
+=
+-tan^-1
+A_21 over A_11</annotation>
+       </semantics>
+      </math>
+     </draw:object><draw:image>
+      <office:binary-data>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
+      </office:binary-data>
+     </draw:image>
+    </draw:frame></text:p>
+   <text:p text:style-name="Standard">Otherwise:</text:p>
+   <text:p text:style-name="equation"><draw:frame draw:style-name="fr1" draw:name="Object17" text:anchor-type="as-char" svg:width="1.0437in" svg:height="0.452in" draw:z-index="4"><draw:object>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+       <semantics>
+        <mrow>
+         <mtext/>
+         <mrow>
+          <msub>
+           <mi>θ</mi>
+           <mrow>
+            <mn>3</mn>
+            <mi>z</mi>
+           </mrow>
+          </msub>
+          <mo stretchy="false">=</mo>
+          <msup>
+           <mi>tan</mi>
+           <mrow>
+            <mo stretchy="false">−</mo>
+            <mn>1</mn>
+           </mrow>
+          </msup>
+         </mrow>
+         <mfrac>
+          <msub>
+           <mi>A</mi>
+           <mn>31</mn>
+          </msub>
+          <msub>
+           <mi>A</mi>
+           <mn>32</mn>
+          </msub>
+         </mfrac>
+        </mrow>
+        <annotation encoding="StarMath 5.0">&quot;&quot;
+%theta_3z
+=
+tan^-1
+A_31 over A_32
+</annotation>
+       </semantics>
+      </math>
+     </draw:object><draw:image>
+      <office:binary-data>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
+      </office:binary-data>
+     </draw:image>
+    </draw:frame></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"/>
+  </office:text>
+ </office:body>
+</office:document>

@@ -1,0 +1,1268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
+ <office:meta><meta:initial-creator>Aik-Siong Koh</meta:initial-creator><meta:creation-date>2010-08-04T19:19:19.87</meta:creation-date><dc:date>2010-08-05T15:13:57.25</dc:date><dc:creator>Aik-Siong Koh</dc:creator><meta:editing-duration>PT19H18M31S</meta:editing-duration><meta:editing-cycles>5</meta:editing-cycles><meta:generator>LibreOffice/7.4.6.2$Windows_X86_64 LibreOffice_project/5b1f5509c2decdade7fda905e3e1429a67acd63d</meta:generator><meta:document-statistic meta:table-count="3" meta:cell-count="228" meta:object-count="0"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">43065</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">20853</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
+     <config:config-item-map-named config:name="Tables">
+      <config:config-item-map-entry config:name="Sheet1">
+       <config:config-item config:name="CursorPositionX" config:type="int">3</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">38</config:config-item>
+       <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="VerticalSplitMode" config:type="short">1</config:config-item>
+       <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="VerticalSplitPosition" config:type="int">366</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">29</config:config-item>
+       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+       <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+      </config:config-item-map-entry>
+     </config:config-item-map-named>
+     <config:config-item config:name="ActiveTable" config:type="string">Sheet1</config:config-item>
+     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1855</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
+     <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+     <config:config-item config:name="ShowPageBreakPreview" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="GridColor" config:type="int">12632256</config:config-item>
+     <config:config-item config:name="ShowPageBreaks" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="FormulaBarHeight" config:type="short">1</config:config-item>
+     <config:config-item config:name="IsOutlineSymbolsSet" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsValueHighlightingEnabled" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IsSnapToRaster" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="RasterResolutionX" config:type="int">1270</config:config-item>
+     <config:config-item config:name="RasterResolutionY" config:type="int">1270</config:config-item>
+     <config:config-item config:name="RasterSubdivisionX" config:type="int">1</config:config-item>
+     <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
+     <config:config-item config:name="IsRasterAxisSynchronized" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="ForbiddenCharacters">
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">en</config:config-item>
+     <config:config-item config:name="Country" config:type="string">US</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string"/>
+     <config:config-item config:name="EndLine" config:type="string"/>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+   <config:config-item config:name="GridColor" config:type="int">12632256</config:config-item>
+   <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ImagePreferredDPI" config:type="int">0</config:config-item>
+   <config:config-item config:name="IsDocumentShared" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsOutlineSymbolsSet" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsRasterAxisSynchronized" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsSnapToRaster" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">3</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">HP Officejet Pro 8600 (Network)</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">KQv+/0hQIE9mZmljZWpldCBQcm8gODYwMCAoTmV0d29yaykAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASFAgT2ZmaWNlamV0IFBybyA4NjAwAAAAAAAAAAAAAAAWAAEASgoAAAAAAAAIAFZUAAAkbQAAM1ROVwAAAAAKAEgAUAAgAE8AZgBmAGkAYwBlAGoAZQB0ACAAUAByAG8AIAA4ADYAMAAwACAAKABOAGUAdAB3AG8AcgBrAAAAAAABBAMG3ABkCUP/gQcBAAEA6gpvCGQAAQAPAFgCAgABAFgCAgABAEwAZQB0AHQAZQByAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAgAAAAIAAAAVAQAAAQEAAAAAAAAAAAAAAAAAAAAAAABESU5VIgC4AhQFUAS7D207AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAuAIAAFNNVEoAAAAAEACoAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUAQAAExQUEgBAAAAUQjbYFEI22AHAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAABYAgAAWAIAAFgCAABYAgAAAgAAAOwTAADIGQAAoRMAAH0ZAABLAAAASwAAADwAAAA8AAAAPAAAADwAAAAAAAAAAQAAAA8nAAABAAAAAQAAAAEAAAAPJwAAAAAAAA8nAAAPJwAAAAAAAA8nAAAPJwAADycAAA8nAAAPJwAADycAAA8nAAAPJwAADycAAA8nAAAPJwAADycAAA8nAAAPJwAADycAAA8nAAAPJwAADycAAA8nAAAPJwAADycAAA8nAAAPJwAADycAAA8nAAAPJwAADycAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVHVlIEFwciAxOCAxMTo1NjoyODo3NjAgMjAyMwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAd7oPYEsAAABLAAAAAQAAAAAAAAAEAAAAAAEAAHe6D2AAAAAAEgBDT01QQVRfRFVQTEVYX01PREUPAER1cGxleE1vZGU6Ok9mZg==</config:config-item>
+   <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RasterResolutionX" config:type="int">1270</config:config-item>
+   <config:config-item config:name="RasterResolutionY" config:type="int">1270</config:config-item>
+   <config:config-item config:name="RasterSubdivisionX" config:type="int">1</config:config-item>
+   <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowPageBreaks" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SyntaxStringRef" config:type="short">7</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item-map-named config:name="ScriptConfiguration">
+    <config:config-item-map-entry config:name="Sheet1">
+     <config:config-item config:name="CodeName" config:type="string">Sheet1</config:config-item>
+    </config:config-item-map-entry>
+    <config:config-item-map-entry config:name="Sheet2">
+     <config:config-item config:name="CodeName" config:type="string">Sheet2</config:config-item>
+    </config:config-item-map-entry>
+    <config:config-item-map-entry config:name="Sheet3">
+     <config:config-item config:name="CodeName" config:type="string">Sheet3</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-named>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Lucida Sans" svg:font-family="&apos;Lucida Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Lucida Sans Unicode" svg:font-family="&apos;Lucida Sans Unicode&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Microsoft YaHei" svg:font-family="&apos;Microsoft YaHei&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Tahoma" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="table-cell">
+   <style:table-cell-properties style:decimal-places="2"/>
+   <style:paragraph-properties style:tab-stop-distance="0.5in"/>
+   <style:text-properties style:font-name="Arial" fo:font-size="10pt" fo:language="en" fo:country="US" style:font-name-asian="Lucida Sans Unicode" style:font-size-asian="10pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Tahoma" style:font-size-complex="10pt" style:language-complex="zxx" style:country-complex="none"/>
+  </style:default-style>
+  <number:number-style style:name="N0">
+   <number:number number:min-integer-digits="1"/>
+  </number:number-style>
+  <number:currency-style style:name="N104P0" style:volatile="true">
+   <number:currency-symbol number:language="en" number:country="US">$</number:currency-symbol>
+   <number:number number:decimal-places="2" number:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+  </number:currency-style>
+  <number:currency-style style:name="N104">
+   <style:text-properties fo:color="#ff0000"/>
+   <number:text>-</number:text>
+   <number:currency-symbol number:language="en" number:country="US">$</number:currency-symbol>
+   <number:number number:decimal-places="2" number:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+   <style:map style:condition="value()&gt;=0" style:apply-style-name="N104P0"/>
+  </number:currency-style>
+  <number:number-style style:name="N122">
+   <number:number number:decimal-places="3" number:min-decimal-places="3" number:min-integer-digits="1"/>
+  </number:number-style>
+  <number:number-style style:name="N123">
+   <number:number number:decimal-places="6" number:min-decimal-places="6" number:min-integer-digits="1"/>
+  </number:number-style>
+  <number:number-style style:name="N124">
+   <number:number number:decimal-places="9" number:min-decimal-places="9" number:min-integer-digits="1"/>
+  </number:number-style>
+  <number:number-style style:name="N125">
+   <number:scientific-number number:decimal-places="3" number:min-decimal-places="3" number:min-integer-digits="1" number:min-exponent-digits="3" number:exponent-interval="1" number:forced-exponent-sign="true"/>
+  </number:number-style>
+  <style:style style:name="Default" style:family="table-cell"/>
+  <style:style style:name="Heading" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties fo:font-size="16pt" fo:font-style="italic" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="table-cell" style:parent-style-name="Heading">
+   <style:table-cell-properties style:rotation-angle="90"/>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="table-cell" style:parent-style-name="Heading">
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="Text" style:family="table-cell" style:parent-style-name="Default"/>
+  <style:style style:name="Note" style:family="table-cell" style:parent-style-name="Text">
+   <style:table-cell-properties fo:background-color="#ffffcc" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" fo:border="0.74pt solid #808080"/>
+   <style:text-properties fo:color="#333333"/>
+  </style:style>
+  <style:style style:name="Footnote" style:family="table-cell" style:parent-style-name="Text">
+   <style:text-properties fo:color="#808080" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Hyperlink" style:family="table-cell" style:parent-style-name="Text">
+   <style:text-properties fo:color="#0000ee" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="#0000ee"/>
+  </style:style>
+  <style:style style:name="Status" style:family="table-cell" style:parent-style-name="Default"/>
+  <style:style style:name="Good" style:family="table-cell" style:parent-style-name="Status">
+   <style:table-cell-properties fo:background-color="#ccffcc"/>
+   <style:text-properties fo:color="#006600"/>
+  </style:style>
+  <style:style style:name="Neutral" style:family="table-cell" style:parent-style-name="Status">
+   <style:table-cell-properties fo:background-color="#ffffcc"/>
+   <style:text-properties fo:color="#996600"/>
+  </style:style>
+  <style:style style:name="Bad" style:family="table-cell" style:parent-style-name="Status">
+   <style:table-cell-properties fo:background-color="#ffcccc"/>
+   <style:text-properties fo:color="#cc0000"/>
+  </style:style>
+  <style:style style:name="Warning" style:family="table-cell" style:parent-style-name="Status">
+   <style:text-properties fo:color="#cc0000"/>
+  </style:style>
+  <style:style style:name="Error" style:family="table-cell" style:parent-style-name="Status">
+   <style:table-cell-properties fo:background-color="#cc0000"/>
+   <style:text-properties fo:color="#ffffff" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Accent" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Accent_20_1" style:display-name="Accent 1" style:family="table-cell" style:parent-style-name="Accent">
+   <style:table-cell-properties fo:background-color="#000000"/>
+   <style:text-properties fo:color="#ffffff"/>
+  </style:style>
+  <style:style style:name="Accent_20_2" style:display-name="Accent 2" style:family="table-cell" style:parent-style-name="Accent">
+   <style:table-cell-properties fo:background-color="#808080"/>
+   <style:text-properties fo:color="#ffffff"/>
+  </style:style>
+  <style:style style:name="Accent_20_3" style:display-name="Accent 3" style:family="table-cell" style:parent-style-name="Accent">
+   <style:table-cell-properties fo:background-color="#dddddd"/>
+  </style:style>
+  <style:style style:name="Result" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Result2" style:family="table-cell" style:parent-style-name="Result" style:data-style-name="N104"/>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="co1" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.8925in"/>
+  </style:style>
+  <style:style style:name="co2" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.889in"/>
+  </style:style>
+  <style:style style:name="ro1" style:family="table-row">
+   <style:table-row-properties style:row-height="0.1783in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro2" style:family="table-row">
+   <style:table-row-properties style:row-height="0.178in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ta1" style:family="table" style:master-page-name="Default">
+   <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="ce1" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N125"/>
+  <style:style style:name="ce2" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N125">
+   <style:table-cell-properties fo:border-bottom="none" fo:border-left="2.49pt solid #000000" fo:border-right="2.49pt solid #000000" fo:border-top="2.49pt solid #000000"/>
+  </style:style>
+  <style:style style:name="ce3" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N125">
+   <style:table-cell-properties fo:border-bottom="none" fo:border-left="2.49pt solid #000000" fo:border-right="2.49pt solid #000000" fo:border-top="none"/>
+  </style:style>
+  <style:style style:name="ce4" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N125">
+   <style:table-cell-properties fo:border-bottom="2.49pt solid #000000" fo:border-left="2.49pt solid #000000" fo:border-right="2.49pt solid #000000" fo:border-top="none"/>
+  </style:style>
+  <style:style style:name="ce5" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N125">
+   <style:table-cell-properties fo:border-bottom="none" fo:border-left="2.49pt solid #000000" fo:border-right="none" fo:border-top="2.49pt solid #000000"/>
+  </style:style>
+  <style:style style:name="ce6" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N125">
+   <style:table-cell-properties fo:border-bottom="none" fo:border-left="2.49pt solid #000000" fo:border-right="none" fo:border-top="none"/>
+  </style:style>
+  <style:style style:name="ce7" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N125">
+   <style:table-cell-properties fo:border-bottom="2.49pt solid #000000" fo:border-left="2.49pt solid #000000" fo:border-right="none" fo:border-top="none"/>
+  </style:style>
+  <style:style style:name="ce8" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N125">
+   <style:table-cell-properties fo:border-bottom="none" fo:border-left="none" fo:border-right="none" fo:border-top="2.49pt solid #000000"/>
+  </style:style>
+  <style:style style:name="ce9" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N125">
+   <style:table-cell-properties fo:border-bottom="2.49pt solid #000000" fo:border-left="none" fo:border-right="none" fo:border-top="none"/>
+  </style:style>
+  <style:style style:name="ce10" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N125">
+   <style:table-cell-properties fo:border-bottom="none" fo:border-left="none" fo:border-right="2.49pt solid #000000" fo:border-top="2.49pt solid #000000"/>
+  </style:style>
+  <style:style style:name="ce11" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N125">
+   <style:table-cell-properties fo:border-bottom="none" fo:border-left="none" fo:border-right="2.49pt solid #000000" fo:border-top="none"/>
+  </style:style>
+  <style:style style:name="ce12" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N125">
+   <style:table-cell-properties fo:border-bottom="2.49pt solid #000000" fo:border-left="none" fo:border-right="2.49pt solid #000000" fo:border-top="none"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties style:writing-mode="lr-tb"/>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="0.2957in" fo:margin-left="0in" fo:margin-right="0in" fo:margin-bottom="0.0984in"/>
+   </style:header-style>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="0.2957in" fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0.0984in"/>
+   </style:footer-style>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Default" style:page-layout-name="pm1">
+   <style:header>
+    <text:p><text:sheet-name>???</text:sheet-name></text:p>
+   </style:header>
+   <style:header-left style:display="false"/>
+   <style:header-first style:display="false"/>
+   <style:footer>
+    <text:p>Page <text:page-number>1</text:page-number></text:p>
+   </style:footer>
+   <style:footer-left style:display="false"/>
+   <style:footer-first style:display="false"/>
+  </style:master-page>
+ </office:master-styles>
+ <office:body>
+  <office:spreadsheet>
+   <table:table table:name="Sheet1" table:style-name="ta1" table:print="false">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <table:table-column table:style-name="co1" table:number-columns-repeated="1024" table:default-cell-style-name="ce1"/>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>sI</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="2" table:formula="of:=sI" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>sJ</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="2" table:formula="of:=sJ" office:value-type="float" office:value="0.001" calcext:value-type="float">
+      <text:p>1.000E-003</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>rOPO</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1014"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1014"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>rOIO</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.B1]" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>rOJO</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.F1]" office:value-type="float" office:value="0.001" calcext:value-type="float">
+      <text:p>1.000E-003</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1014"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:formula="of:=[.B2]*2" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1018"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:formula="of:=[.F2]*2" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1018"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>prOIOpsI</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>prOJOpsJ</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1017"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1017"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1017"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>rIJO</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="3" table:formula="of:=rOJO-rOIO" office:value-type="float" office:value="0.001" calcext:value-type="float">
+      <text:p>1.000E-003</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>rIJ</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SQRT(SUMSQ(rIJO))" office:value-type="float" office:value="0.001" calcext:value-type="float">
+      <text:p>1.000E-003</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>rIJH</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SQRT(SUMSQ(rIJO))" office:value-type="float" office:value="0.001" calcext:value-type="float">
+      <text:p>1.000E-003</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1 over rIJH</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>prTps*r</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1011"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>prIJHpsI</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="4" table:formula="of:=[.L11:.L14]*[.M11:.M14]" office:value-type="float" office:value="-1" calcext:value-type="float">
+      <text:p>-1.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="4" table:formula="of:=1/rIJH" office:value-type="float" office:value="1000" calcext:value-type="float">
+      <text:p>1.000E+003</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="2" table:formula="of:=MMULT(TRANSPOSE(prIJOpsI);rIJO)" office:value-type="float" office:value="-0.001" calcext:value-type="float">
+      <text:p>-1.000E-003</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1011"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="1000" calcext:value-type="float">
+      <text:p>1.000E+003</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1011"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>prIJOpsI</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-matrix-columns-spanned="2" table:number-matrix-rows-spanned="3" table:formula="of:=-prOIOpsI" office:value-type="float" office:value="-1" calcext:value-type="float">
+      <text:p>-1.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="-0" calcext:value-type="float">
+      <text:p>-0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>prIJHpsJ</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="1000" calcext:value-type="float">
+      <text:p>1.000E+003</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="2" table:formula="of:=MMULT(TRANSPOSE(prIJOpsJ);rIJO)" office:value-type="float" office:value="0.001" calcext:value-type="float">
+      <text:p>1.000E-003</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1011"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="-0" calcext:value-type="float">
+      <text:p>-0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="-2" calcext:value-type="float">
+      <text:p>-2.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="1000" calcext:value-type="float">
+      <text:p>1.000E+003</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1011"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="-0" calcext:value-type="float">
+      <text:p>-0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="-0" calcext:value-type="float">
+      <text:p>-0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1021"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>prIJOpsJ</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-matrix-columns-spanned="2" table:number-matrix-rows-spanned="3" table:formula="of:=prOIOpsJ" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="8"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1 over rIJH</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>-prps*prpsT</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>pprpss*r</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>prTps*prps</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1006"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>pprIJHpsIpsI</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-matrix-columns-spanned="2" table:number-matrix-rows-spanned="6" table:formula="of:=[.L17:.M22]*([.N17:.O22]+[.R17:.S22])" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-matrix-columns-spanned="2" table:number-matrix-rows-spanned="6" table:formula="of:=1/rIJH" office:value-type="float" office:value="1000" calcext:value-type="float">
+      <text:p>1.000E+003</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1000" calcext:value-type="float">
+      <text:p>1.000E+003</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-matrix-columns-spanned="2" table:number-matrix-rows-spanned="2" table:formula="of:=-MMULT(prIJHpsI;TRANSPOSE(prIJHpsI))" office:value-type="float" office:value="-1" calcext:value-type="float">
+      <text:p>-1.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="-0" calcext:value-type="float">
+      <text:p>-0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-matrix-columns-spanned="2" table:number-matrix-rows-spanned="2" table:formula="of:=MMULT(TRANSPOSE(prIJOpsI);prIJOpsI)" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1005"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="4000" calcext:value-type="float">
+      <text:p>4.000E+003</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1000" calcext:value-type="float">
+      <text:p>1.000E+003</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1000" calcext:value-type="float">
+      <text:p>1.000E+003</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="-0" calcext:value-type="float">
+      <text:p>-0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="-0" calcext:value-type="float">
+      <text:p>-0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1005"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="8"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>pprIJHpsIpsJ</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1000" calcext:value-type="float">
+      <text:p>1.000E+003</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1000" calcext:value-type="float">
+      <text:p>1.000E+003</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-matrix-columns-spanned="2" table:number-matrix-rows-spanned="2" table:formula="of:=-MMULT(prIJHpsI;TRANSPOSE(prIJHpsJ))" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="-0" calcext:value-type="float">
+      <text:p>-0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-matrix-columns-spanned="2" table:number-matrix-rows-spanned="2" table:formula="of:=MMULT(TRANSPOSE(prIJOpsI);prIJOpsJ)" office:value-type="float" office:value="-1" calcext:value-type="float">
+      <text:p>-1.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1005"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="9"/>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1000" calcext:value-type="float">
+      <text:p>1.000E+003</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1000" calcext:value-type="float">
+      <text:p>1.000E+003</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="-0" calcext:value-type="float">
+      <text:p>-0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="-0" calcext:value-type="float">
+      <text:p>-0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1005"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="8"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>pprIJHpsJpsJ</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1000" calcext:value-type="float">
+      <text:p>1.000E+003</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1000" calcext:value-type="float">
+      <text:p>1.000E+003</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-matrix-columns-spanned="2" table:number-matrix-rows-spanned="2" table:formula="of:=-MMULT(prIJHpsJ;TRANSPOSE(prIJHpsJ))" office:value-type="float" office:value="-1" calcext:value-type="float">
+      <text:p>-1.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="-0" calcext:value-type="float">
+      <text:p>-0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-matrix-columns-spanned="2" table:number-matrix-rows-spanned="2" table:formula="of:=MMULT(TRANSPOSE(prIJOpsJ);prIJOpsJ)" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1005"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="9"/>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="4000" calcext:value-type="float">
+      <text:p>4.000E+003</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1000" calcext:value-type="float">
+      <text:p>1.000E+003</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1000" calcext:value-type="float">
+      <text:p>1.000E+003</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="-0" calcext:value-type="float">
+      <text:p>-0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="-0" calcext:value-type="float">
+      <text:p>-0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1005"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>rIPO</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="3" table:formula="of:=rOPO-rOIO" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>rIP</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SQRT(SUMSQ(rIPO))" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>rIPH</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=SQRT(SUMSQ(rIPO) + 1)" office:value-type="float" office:value="1.4142135623731" calcext:value-type="float">
+      <text:p>1.414E+000</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1 over rIPH</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>prTps*r</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1011"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>prIPHpsI</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="2" table:formula="of:=[.L25:.L26]*[.M25:.M26]" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="2" table:formula="of:=1/rIPH" office:value-type="float" office:value="0.707106781186548" calcext:value-type="float">
+      <text:p>7.071E-001</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="2" table:formula="of:=MMULT(TRANSPOSE(prIPOpsI);rIPO)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1011"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="7"/>
+     <table:table-cell office:value-type="float" office:value="-1.4142135623731" calcext:value-type="float">
+      <text:p>-1.414E+000</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="0.707106781186548" calcext:value-type="float">
+      <text:p>7.071E-001</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="-2" calcext:value-type="float">
+      <text:p>-2.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1011"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>prIPOpsI</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-matrix-columns-spanned="2" table:number-matrix-rows-spanned="3" table:formula="of:=-prOIOpsI" office:value-type="float" office:value="-1" calcext:value-type="float">
+      <text:p>-1.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="-0" calcext:value-type="float">
+      <text:p>-0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1021"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="-0" calcext:value-type="float">
+      <text:p>-0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="-2" calcext:value-type="float">
+      <text:p>-2.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1021"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="float" office:value="-0" calcext:value-type="float">
+      <text:p>-0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="-0" calcext:value-type="float">
+      <text:p>-0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1021"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="11"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1 over rIPH</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>-prps*prpsT</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>pprpss*r</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>prTps*prps</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1006"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="8"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>pprIPHpsIpsI</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-matrix-columns-spanned="2" table:number-matrix-rows-spanned="2" table:formula="of:=[.L31:.M32]*([.N31:.O32]+[.R31:.S32])" office:value-type="float" office:value="0.707106781186548" calcext:value-type="float">
+      <text:p>7.071E-001</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-matrix-columns-spanned="2" table:number-matrix-rows-spanned="2" table:formula="of:=1/rIPH" office:value-type="float" office:value="0.707106781186548" calcext:value-type="float">
+      <text:p>7.071E-001</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0.707106781186548" calcext:value-type="float">
+      <text:p>7.071E-001</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-matrix-columns-spanned="2" table:number-matrix-rows-spanned="2" table:formula="of:=-MMULT(prIPHpsI;TRANSPOSE(prIPHpsI))" office:value-type="float" office:value="-0" calcext:value-type="float">
+      <text:p>-0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="-0" calcext:value-type="float">
+      <text:p>-0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-matrix-columns-spanned="2" table:number-matrix-rows-spanned="2" table:formula="of:=MMULT(TRANSPOSE(prIPOpsI);prIPOpsI)" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1005"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="9"/>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1.4142135623731" calcext:value-type="float">
+      <text:p>1.414E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0.707106781186548" calcext:value-type="float">
+      <text:p>7.071E-001</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0.707106781186548" calcext:value-type="float">
+      <text:p>7.071E-001</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="-0" calcext:value-type="float">
+      <text:p>-0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="-2" calcext:value-type="float">
+      <text:p>-2.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1005"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>old x</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Jacobian</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>error</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>dx</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>new x</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1010"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>sI</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" table:number-matrix-columns-spanned="2" table:number-matrix-rows-spanned="2" table:formula="of:=pprIPHpsIpsI+lam*pprIJHpsIpsI" office:value-type="float" office:value="0.707106781186548" calcext:value-type="float">
+      <text:p>7.071E-001</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce8" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce8" table:number-matrix-columns-spanned="2" table:number-matrix-rows-spanned="2" table:formula="of:=lam*pprIJHpsIpsJ" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce8" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce10" table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="2" table:formula="of:=prIJHpsI" office:value-type="float" office:value="-1" calcext:value-type="float">
+      <text:p>-1.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce2" table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="2" table:formula="of:=prIPHpsI+lam*prIJHpsI" office:value-type="float" office:value="-1" calcext:value-type="float">
+      <text:p>-1.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce2" table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="5" table:formula="of:=MMULT(MINVERSE(Jacobian);-error)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce2" table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="5" table:formula="of:=[.B35:.B39]+[.L35:.L39]" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1010"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce3" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce6" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="4001.41421356237" calcext:value-type="float">
+      <text:p>4.001E+003</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce11" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce3" office:value-type="float" office:value="-1.4142135623731" calcext:value-type="float">
+      <text:p>-1.414E+000</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce3" office:value-type="float" office:value="0.000353428434771828" calcext:value-type="float">
+      <text:p>3.534E-004</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce3" office:value-type="float" office:value="0.000353428434771828" calcext:value-type="float">
+      <text:p>3.534E-004</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1010"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>sJ</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce3" office:value-type="float" office:value="0.001" calcext:value-type="float">
+      <text:p>1.000E-003</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce6" table:number-matrix-columns-spanned="2" table:number-matrix-rows-spanned="2" table:formula="of:=lam*TRANSPOSE(pprIJHpsIpsJ)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-matrix-columns-spanned="2" table:number-matrix-rows-spanned="2" table:formula="of:=lam*pprIJHpsJpsJ" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce11" table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="2" table:formula="of:=prIJHpsJ" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce3" table:number-matrix-columns-spanned="1" table:number-matrix-rows-spanned="2" table:formula="of:=lam*prIJHpsJ" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce3" office:value-type="float" office:value="0.999" calcext:value-type="float">
+      <text:p>9.990E-001</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce3" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1010"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce3" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce6" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="4000" calcext:value-type="float">
+      <text:p>4.000E+003</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce11" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce3" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce3" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce3" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1010"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>lam</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce7" table:number-matrix-columns-spanned="2" table:number-matrix-rows-spanned="1" table:formula="of:=TRANSPOSE(prIJHpsI)" office:value-type="float" office:value="-1" calcext:value-type="float">
+      <text:p>-1.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" table:number-matrix-columns-spanned="2" table:number-matrix-rows-spanned="1" table:formula="of:=TRANSPOSE(prIJHpsJ)" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce4" table:formula="of:=rIJH - 1" office:value-type="float" office:value="-0.999" calcext:value-type="float">
+      <text:p>-9.990E-001</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce4" office:value-type="float" office:value="-1" calcext:value-type="float">
+      <text:p>-1.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce4" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1010"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="2">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce2" office:value-type="float" office:value="0.1" calcext:value-type="float">
+      <text:p>1.000E-001</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1022"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce3" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1022"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce3" office:value-type="float" office:value="0.1" calcext:value-type="float">
+      <text:p>1.000E-001</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1022"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce3" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1022"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce4" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1.000E+000</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1022"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="65489">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+   </table:table>
+   <table:table table:name="Sheet2" table:style-name="ta1" table:print="false">
+    <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+    </table:table-row>
+   </table:table>
+   <table:table table:name="Sheet3" table:style-name="ta1" table:print="false">
+    <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+    </table:table-row>
+   </table:table>
+   <table:named-expressions>
+    <table:named-range table:name="dddd" table:base-cell-address="$Sheet1.$L$2" table:cell-range-address="$Sheet1.$L$1:.$L$2"/>
+    <table:named-range table:name="error" table:base-cell-address="$Sheet1.$J$39" table:cell-range-address="$Sheet1.$J$35:.$J$39"/>
+    <table:named-range table:name="Jacobian" table:base-cell-address="$Sheet1.$H$39" table:cell-range-address="$Sheet1.$D$35:.$H$39"/>
+    <table:named-range table:name="lam" table:base-cell-address="$Sheet1.$B$39" table:cell-range-address="$Sheet1.$B$39"/>
+    <table:named-range table:name="newx" table:base-cell-address="$Sheet1.$N$39" table:cell-range-address="$Sheet1.$N$35:.$N$39"/>
+    <table:named-range table:name="pprIJHpsIpsI" table:base-cell-address="$Sheet1.$K$18" table:cell-range-address="$Sheet1.$J$17:.$K$18"/>
+    <table:named-range table:name="pprIJHpsIpsJ" table:base-cell-address="$Sheet1.$K$20" table:cell-range-address="$Sheet1.$J$19:.$K$20"/>
+    <table:named-range table:name="pprIJHpsJpsJ" table:base-cell-address="$Sheet1.$K$22" table:cell-range-address="$Sheet1.$J$21:.$K$22"/>
+    <table:named-range table:name="pprIPHpsIpsI" table:base-cell-address="$Sheet1.$K$32" table:cell-range-address="$Sheet1.$J$31:.$K$32"/>
+    <table:named-range table:name="prIJHpsI" table:base-cell-address="$Sheet1.$J$12" table:cell-range-address="$Sheet1.$J$11:.$J$12"/>
+    <table:named-range table:name="prIJHpsJ" table:base-cell-address="$Sheet1.$J$14" table:cell-range-address="$Sheet1.$J$13:.$J$14"/>
+    <table:named-range table:name="prIJOpsI" table:base-cell-address="$Sheet1.$C$15" table:cell-range-address="$Sheet1.$B$13:.$C$15"/>
+    <table:named-range table:name="prIJOpsJ" table:base-cell-address="$Sheet1.$C$18" table:cell-range-address="$Sheet1.$B$16:.$C$18"/>
+    <table:named-range table:name="prIPHpsI" table:base-cell-address="$Sheet1.$J$26" table:cell-range-address="$Sheet1.$J$25:.$J$26"/>
+    <table:named-range table:name="prIPOpsI" table:base-cell-address="$Sheet1.$C$29" table:cell-range-address="$Sheet1.$B$27:.$C$29"/>
+    <table:named-range table:name="prOIOps" table:base-cell-address="$Sheet1.$C$8" table:cell-range-address="$Sheet1.$B$6:.$C$8"/>
+    <table:named-range table:name="prOIOpsI" table:base-cell-address="$Sheet1.$C$8" table:cell-range-address="$Sheet1.$B$6:.$C$8"/>
+    <table:named-range table:name="prOIOpsJ" table:base-cell-address="$Sheet1.$G$8" table:cell-range-address="$Sheet1.$F$6:.$G$8"/>
+    <table:named-range table:name="rIJH" table:base-cell-address="$Sheet1.$J$10" table:cell-range-address="$Sheet1.$J$10"/>
+    <table:named-range table:name="rIJO" table:base-cell-address="$Sheet1.$B$12" table:cell-range-address="$Sheet1.$B$10:.$B$12"/>
+    <table:named-range table:name="rIPH" table:base-cell-address="$Sheet1.$J$24" table:cell-range-address="$Sheet1.$J$24"/>
+    <table:named-range table:name="rIPO" table:base-cell-address="$Sheet1.$B$26" table:cell-range-address="$Sheet1.$B$24:.$B$26"/>
+    <table:named-range table:name="rOIO" table:base-cell-address="$Sheet1.$B$5" table:cell-range-address="$Sheet1.$B$3:.$B$5"/>
+    <table:named-range table:name="rOJO" table:base-cell-address="$Sheet1.$F$5" table:cell-range-address="$Sheet1.$F$3:.$F$5"/>
+    <table:named-range table:name="rOPO" table:base-cell-address="$Sheet1.$J$3" table:cell-range-address="$Sheet1.$J$1:.$J$3"/>
+    <table:named-range table:name="sI" table:base-cell-address="$Sheet1.$B$36" table:cell-range-address="$Sheet1.$B$35:.$B$36"/>
+    <table:named-range table:name="sJ" table:base-cell-address="$Sheet1.$B$36" table:cell-range-address="$Sheet1.$B$37:.$B$38"/>
+   </table:named-expressions>
+  </office:spreadsheet>
+ </office:body>
+</office:document>
